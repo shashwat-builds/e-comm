@@ -72,7 +72,7 @@ server/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shashwat-builds/e-comm.git
    cd ecommf
    ```
 
